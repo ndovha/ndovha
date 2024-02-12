@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nataliia
 
 - 👀 Full Stack Developer
-- 🌱 Proficient in React, Typescript, Javascipt, Node.js, HTML & CSS
+- 🌱 Proficient in React, Next.js, Typescript, Javascipt, Node.js, HTML & CSS
 - 💞️ Enthusiastic about coding and dedicated to continuous learning
 - 📫 How to reach me: nataliia.dovha.ca@gmail.com
 
